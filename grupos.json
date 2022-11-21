@@ -1,58 +1,58 @@
 [
     {
         "grupo": "A",
-        "selecao4": ["catar.svg", "Catar", "CAT"],
-        "selecao2": ["equador.svg", "Equador", "EQU"],
-        "selecao3": ["senegal.svg", "Senegal", "SEN"],
-        "selecao1": ["holanda.svg", "Holanda", "HOL"]
+        "selecao4": ["catar.svg", "Catar 0 pontos", "CAT"],
+        "selecao2": ["equador.svg", "Equador 3 pontos", "EQU"],
+        "selecao3": ["senegal.svg", "Senegal 0 pontos", "SEN"],
+        "selecao1": ["holanda.svg", "Holanda 3 pontos", "HOL"]
     },
     {
         "grupo": "B",
-        "selecao1": [ "inglaterra.svg", "Inglaterra", "ING"],
-        "selecao4": [ "ira.svg", "Irã", "IRA"],
-        "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA"],
-        "selecao2": ["pais_de_gales.svg", "País de Gales", "GAL"]
+        "selecao1": [ "inglaterra.svg", "Inglaterra 3 pontos", "ING"],
+        "selecao4": [ "ira.svg", "Irã 0 pontos", "IRA"],
+        "selecao3": ["estados_unidos.svg", "Estados Unidos pontos", "EUA"],
+        "selecao2": ["pais_de_gales.svg", "País de Gales pontos", "GAL"]
     },
     {
         "grupo": "C",
-        "selecao1": ["arabia_saudita.svg", "Arábia Saudita", "ARA"],
-        "selecao2": ["argentina.svg", "Argentina", "ARG"],
-        "selecao3": ["mexico.svg", "México", "MEX"],
-        "selecao4": ["polonia.svg", "Polônia", "POL"]
+        "selecao1": ["arabia_saudita.svg", "Arábia Saudita pontos", "ARA"],
+        "selecao2": ["argentina.svg", "Argentina pontos", "ARG"],
+        "selecao3": ["mexico.svg", "México pontos ", "MEX"],
+        "selecao4": ["polonia.svg", "Polônia pontos", "POL"]
     },
     {
         "grupo": "D",
-        "selecao1": ["franca.svg", "França", "FRA"],
-        "selecao2": ["peru.svg", "Peru", "PER"],
-        "selecao3": ["dinamarca.svg", "Dinamarca", "DIN"],
-        "selecao4": ["tunisia.svg", "Tunísia", "TUN"]
+        "selecao1": ["franca.svg", "França pontos", "FRA"],
+        "selecao2": ["peru.svg", "Peru pontos", "PER"],
+        "selecao3": ["dinamarca.svg", "Dinamarca pontos", "DIN"],
+        "selecao4": ["tunisia.svg", "Tunísia pontos", "TUN"]
     },
     {
         "grupo": "E",
-        "selecao1": ["alemanha.svg", "Alemanha", "ALE"],
-        "selecao2": ["costa_rica.svg", "Costa Rica", "COS"],
-        "selecao3": ["espanha.svg", "Espanha", "ESP"],
-        "selecao4": ["japao.svg", "Japão", "JAP"]
+        "selecao1": ["alemanha.svg", "Alemanha pontos", "ALE"],
+        "selecao2": ["costa_rica.svg", "Costa Rica pontos", "COS"],
+        "selecao3": ["espanha.svg", "Espanha  pontos", "ESP"],
+        "selecao4": ["japao.svg", "Japão pontos", "JAP"]
     },
     {
         "grupo": "F",
-        "selecao1": ["belgica.svg", "Bélgica", "BEL"],
-        "selecao2": ["canada.svg", "Canadá", "CAN"],
-        "selecao3": ["croacia.svg", "Croácia", "CRO"],
-        "selecao4": ["marrocos.svg", "Marrocos", "MAR"]
+        "selecao1": ["belgica.svg", "Bélgica pontos", "BEL"],
+        "selecao2": ["canada.svg", "Canadá pontos", "CAN"],
+        "selecao3": ["croacia.svg", "Croácia pontos", "CRO"],
+        "selecao4": ["marrocos.svg", "Marrocos pontos", "MAR"]
     },
     {
         "grupo": "G",
-        "selecao1": ["brasil.svg", "Brasil", "BRA"],
-        "selecao2": ["camaroes.svg", "Camarões", "CAM"],
-        "selecao3": ["servia.svg", "Sérvia", "SER"],
-        "selecao4": ["suica.svg", "Suíça", "SUI"]
+        "selecao1": ["brasil.svg", "Brasil pontos", "BRA"],
+        "selecao2": ["camaroes.svg", "Camarões pontos", "CAM"],
+        "selecao3": ["servia.svg", "Sérvia pontos", "SER"],
+        "selecao4": ["suica.svg", "Suíça pontos", "SUI"]
     },
     {
         "grupo": "H",
-        "selecao1": ["portugal.svg", "Portugal", "POR"],
-        "selecao2": ["gana.svg", "Gana", "GAN"],
-        "selecao3": ["coreia_do_sul.svg", "Coreia do Sul", "COR"],
-        "selecao4": ["uruguai.svg", "Uruguai", "URU"]
+        "selecao1": ["portugal.svg", "Portugal pontos", "POR"],
+        "selecao2": ["gana.svg", "Gana pontos", "GAN"],
+        "selecao3": ["coreia_do_sul.svg pontos", "Coreia do Sul", "COR"],
+        "selecao4": ["uruguai.svg", "Uruguai pontos", "URU"]
     }
 ]

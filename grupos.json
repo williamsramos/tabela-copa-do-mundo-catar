@@ -52,7 +52,7 @@
         "grupo": "H",
         "selecao1": ["portugal.svg", "Portugal pontos", "POR"],
         "selecao2": ["gana.svg", "Gana pontos", "GAN"],
-        "selecao3": ["coreia_do_sul.svg pontos", "Coreia do Sul", "COR"],
+        "selecao3": ["coreia_do_sul.svg ", "Coreia do Sul pontos", "COR"],
         "selecao4": ["uruguai.svg", "Uruguai pontos", "URU"]
     }
 ]

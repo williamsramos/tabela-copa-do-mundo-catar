@@ -8,8 +8,8 @@
     },
     {
         "grupo": "B",
-        "selecao1": [ "inglaterra.svg", "Inglaterra", "ING", "1º"],
-        "selecao4": [ "ira.svg", "Irã", "IRA", "4º"],
+        "selecao1": [ "inglaterra.svg", "Inglaterra", "ING"],
+        "selecao4": [ "ira.svg", "Irã", "IRA"],
         "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA"],
         "selecao2": ["pais_de_gales.svg", "País de Gales", "GAL"]
     },

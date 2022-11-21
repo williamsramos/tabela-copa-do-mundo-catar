@@ -44,10 +44,10 @@ const criarCards = () => {
 const preencherDadosNosCards = (grupo, index) => {
     // destruturacao do grupo e selecoes
     let { grupo: ogrupo, selecao1, selecao2, selecao3, selecao4 } = grupo
-    let [ bandeira1, pais1, posicao1 ] = selecao1
-    let [ bandeira2, pais2, posicao2 ] = selecao2
-    let [ bandeira3, pais3, posicao3 ] = selecao3
-    let [ bandeira4, pais4, posicao4 ] = selecao4
+    let [ bandeira1, pais1 ] = selecao1
+    let [ bandeira2, pais2 ] = selecao2
+    let [ bandeira3, pais3 ] = selecao3
+    let [ bandeira4, pais4 ] = selecao4
 
     let tituloDoGrupo   = document.querySelectorAll('.tituloDoGrupo')
     let listaDeSelecoes = document.querySelectorAll('.listaDeSelecoes')

@@ -1,58 +1,58 @@
 [
     {
         "grupo": "A",
-        "selecao1": ["catar.svg", "Catar", "CAT"],
-        "selecao2": ["equador.svg", "Equador", "EQU"],
-        "selecao3": ["senegal.svg", "Senegal", "SEN"],
-        "selecao4": ["holanda.svg", "Holanda", "HOL"]
+        "selecao1": ["catar.svg", "Catar", "CAT", "4º"],
+        "selecao2": ["equador.svg", "Equador", "EQU", "1º"],
+        "selecao3": ["senegal.svg", "Senegal", "SEN", "-º"],
+        "selecao4": ["holanda.svg", "Holanda", "HOL", "-º"]
     },
     {
         "grupo": "B",
-        "selecao1": ["inglaterra.svg", "Inglaterra", "ING"],
-        "selecao2": ["ira.svg", "Irã", "IRA"],
-        "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA"],
-        "selecao4": ["pais_de_gales.svg", "País de Gales", "GAL"]
+        "selecao1": ["inglaterra.svg", "Inglaterra", "ING", "-º"],
+        "selecao2": ["ira.svg", "Irã", "IRA", "-º"],
+        "selecao3": ["estados_unidos.svg", "Estados Unidos", "EUA", "-º"],
+        "selecao4": ["pais_de_gales.svg", "País de Gales", "GAL", "-º"]
     },
     {
         "grupo": "C",
-        "selecao1": ["arabia_saudita.svg", "Arábia Saudita", "ARA"],
-        "selecao2": ["argentina.svg", "Argentina", "ARG"],
-        "selecao3": ["mexico.svg", "México", "MEX"],
-        "selecao4": ["polonia.svg", "Polônia", "POL"]
+        "selecao1": ["arabia_saudita.svg", "Arábia Saudita", "ARA", "-º"],
+        "selecao2": ["argentina.svg", "Argentina", "ARG", "-º"],
+        "selecao3": ["mexico.svg", "México", "MEX", "-º"],
+        "selecao4": ["polonia.svg", "Polônia", "POL", "-º"]
     },
     {
         "grupo": "D",
-        "selecao1": ["dinamarca.svg", "Dinamarca", "DIN"],
-        "selecao2": ["peru.svg", "Peru", "PER"],
-        "selecao3": ["franca.svg", "França", "FRA"],
-        "selecao4": ["tunisia.svg", "Tunísia", "TUN"]
+        "selecao1": ["franca.svg", "França", "FRA", "-º"],
+        "selecao2": ["peru.svg", "Peru", "PER", "-º"],
+        "selecao3": ["dinamarca.svg", "Dinamarca", "DIN", "-º"],
+        "selecao4": ["tunisia.svg", "Tunísia", "TUN", "-º"]
     },
     {
         "grupo": "E",
-        "selecao1": ["alemanha.svg", "Alemanha", "ALE"],
-        "selecao2": ["costa_rica.svg", "Costa Rica", "COS"],
-        "selecao3": ["espanha.svg", "Espanha", "ESP"],
-        "selecao4": ["japao.svg", "Japão", "JAP"]
+        "selecao1": ["alemanha.svg", "Alemanha", "ALE", "-º"],
+        "selecao2": ["costa_rica.svg", "Costa Rica", "COS", "-º"],
+        "selecao3": ["espanha.svg", "Espanha", "ESP", "-º"],
+        "selecao4": ["japao.svg", "Japão", "JAP", "-º"]
     },
     {
         "grupo": "F",
-        "selecao1": ["belgica.svg", "Bélgica", "BEL"],
-        "selecao2": ["canada.svg", "Canadá", "CAN"],
-        "selecao3": ["croacia.svg", "Croácia", "CRO"],
-        "selecao4": ["marrocos.svg", "Marrocos", "MAR"]
+        "selecao1": ["belgica.svg", "Bélgica", "BEL", "-º"],
+        "selecao2": ["canada.svg", "Canadá", "CAN", "-º"],
+        "selecao3": ["croacia.svg", "Croácia", "CRO", "-º"],
+        "selecao4": ["marrocos.svg", "Marrocos", "MAR", "-º"]
     },
     {
         "grupo": "G",
-        "selecao1": ["brasil.svg", "Brasil", "BRA"],
-        "selecao2": ["camaroes.svg", "Camarões", "CAM"],
-        "selecao3": ["servia.svg", "Sérvia", "SER"],
-        "selecao4": ["suica.svg", "Suíça", "SUI"]
+        "selecao1": ["brasil.svg", "Brasil", "BRA", "-º"],
+        "selecao2": ["camaroes.svg", "Camarões", "CAM", "-º"],
+        "selecao3": ["servia.svg", "Sérvia", "SER", "-º"],
+        "selecao4": ["suica.svg", "Suíça", "SUI", "-º"]
     },
     {
         "grupo": "H",
-        "selecao1": ["coreia_do_sul.svg", "Coreia do Sul", "COR"],
-        "selecao2": ["gana.svg", "Gana", "GAN"],
-        "selecao3": ["portugal.svg", "Portugal", "POR"],
-        "selecao4": ["uruguai.svg", "Uruguai", "URU"]
+        "selecao1": ["portugal.svg", "Portugal", "POR", "-º"],
+        "selecao2": ["gana.svg", "Gana", "GAN", "-º"],
+        "selecao3": ["coreia_do_sul.svg", "Coreia do Sul", "COR", "-º"],
+        "selecao4": ["uruguai.svg", "Uruguai", "URU", "-º"]
     }
 ]

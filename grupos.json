@@ -2,7 +2,7 @@
     {
         "grupo": "A",
         "selecao1": ["catar.svg", "Catar", "CAT", "4º"],
-        "selecao2": ["equador.svg", "Equador", "EQU", "1º"],
+        "selecao2": ["equador.svg", "Equador", "EQU", '1º'],
         "selecao3": ["senegal.svg", "Senegal", "SEN", "-º"],
         "selecao4": ["holanda.svg", "Holanda", "HOL", "-º"]
     },

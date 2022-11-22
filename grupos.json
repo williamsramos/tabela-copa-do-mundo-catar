@@ -10,8 +10,8 @@
         "grupo": "B",
         "selecao1": [ "inglaterra.svg", "Inglaterra 3 pontos", "ING"],
         "selecao4": [ "ira.svg", "Irã 0 pontos", "IRA"],
-        "selecao3": ["estados_unidos.svg", "Estados Unidos 1 pontos", "EUA"],
-        "selecao2": ["pais_de_gales.svg", "País de Gales 1 pontos", "GAL"]
+        "selecao3": ["estados_unidos.svg", "Estados Unidos 1 ponto", "EUA"],
+        "selecao2": ["pais_de_gales.svg", "País de Gales 1 ponto", "GAL"]
     },
     {
         "grupo": "C",

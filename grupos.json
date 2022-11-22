@@ -23,7 +23,7 @@
     {
         "grupo": "D",
         "selecao1": ["franca.svg", "França pontos", "FRA"],
-        "selecao2": ["australia.svg", "Peru pontos", "PER"],
+        "selecao2": ["australia.svg", "Australia pontos", "AUS"],
         "selecao3": ["dinamarca.svg", "Dinamarca pontos", "DIN"],
         "selecao4": ["tunisia.svg", "Tunísia pontos", "TUN"]
     },

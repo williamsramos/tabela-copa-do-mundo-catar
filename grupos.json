@@ -15,10 +15,10 @@
     },
     {
         "grupo": "C",
-        "selecao1": ["arabia_saudita.svg", "Arábia Saudita pontos", "ARA"],
-        "selecao2": ["argentina.svg", "Argentina pontos", "ARG"],
+        "selecao1": ["arabia_saudita.svg", "Arábia Saudita 3 pontos", "ARA"],
+        "selecao4": ["argentina.svg", "Argentina 0 pontos", "ARG"],
         "selecao3": ["mexico.svg", "México pontos ", "MEX"],
-        "selecao4": ["polonia.svg", "Polônia pontos", "POL"]
+        "selecao2": ["polonia.svg", "Polônia pontos", "POL"]
     },
     {
         "grupo": "D",

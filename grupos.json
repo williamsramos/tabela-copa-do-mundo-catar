@@ -22,8 +22,8 @@
     },
     {
         "grupo": "D",
-        "selecao1": ["franca.svg", "França pontos", "FRA"],
-        "selecao2": ["australia.svg", "Australia pontos", "AUS"],
+        "selecao1": ["franca.svg", "França 3 pontos", "FRA"],
+        "selecao4": ["australia.svg", "Australia 0 pontos", "AUS"],
         "selecao3": ["dinamarca.svg", "Dinamarca 1 ponto", "DIN"],
         "selecao4": ["tunisia.svg", "Tunísia 1 ponto", "TUN"]
     },

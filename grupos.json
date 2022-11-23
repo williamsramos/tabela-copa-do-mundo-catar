@@ -29,10 +29,10 @@
     },
     {
         "grupo": "E",
-        "selecao1": ["alemanha.svg", "Alemanha pontos", "ALE"],
+        "selecao4": ["alemanha.svg", "Alemanha 0 pontos", "ALE"],
         "selecao2": ["costa_rica.svg", "Costa Rica pontos", "COS"],
         "selecao3": ["espanha.svg", "Espanha  pontos", "ESP"],
-        "selecao4": ["japao.svg", "Japão pontos", "JAP"]
+        "selecao1": ["japao.svg", "Japão 3 pontos", "JAP"]
     },
     {
         "grupo": "F",

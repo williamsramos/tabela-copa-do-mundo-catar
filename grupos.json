@@ -36,10 +36,10 @@
     },
     {
         "grupo": "F",
-        "selecao1": ["belgica.svg", "Bélgica pontos", "BEL"],
-        "selecao2": ["canada.svg", "Canadá pontos", "CAN"],
+        "selecao1": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
+        "selecao4": ["canada.svg", "Canadá 0 pontos", "CAN"],
         "selecao3": ["croacia.svg", "Croácia 1 ponto", "CRO"],
-        "selecao4": ["marrocos.svg", "Marrocos 1 ponto", "MAR"]
+        "selecao2": ["marrocos.svg", "Marrocos 1 ponto", "MAR"]
     },
     {
         "grupo": "G",

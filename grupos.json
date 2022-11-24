@@ -50,10 +50,10 @@
     },
     {
         "grupo": "H",
-        "selecao3": ["portugal.svg", "Portugal pontos", "POR"],
-        "selecao4": ["gana.svg", "Gana pontos", "GAN"],
-        "selecao2": ["coreia_do_sul.svg ", "Coreia do Sul 0 pontos", "COR"],
-        "selecao1": ["uruguai.svg", "Uruguai 0 pontos", "URU"]
+        "selecao3": ["portugal.svg", "Portugal 3 pontos", "POR"],
+        "selecao4": ["gana.svg", "Gana 0 pontos", "GAN"],
+        "selecao2": ["coreia_do_sul.svg ", "Coreia do Sul 1 ponto", "COR"],
+        "selecao1": ["uruguai.svg", "Uruguai 1 ponto", "URU"]
     }
 ]
  

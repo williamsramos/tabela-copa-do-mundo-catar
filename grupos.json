@@ -43,10 +43,10 @@
     },
     {
         "grupo": "G",
-        "selecao2": ["brasil.svg", "Brasil pontos", "BRA"],
-        "selecao4": ["camaroes.svg", "Camarões 0 pontos", "CAM"],
+        "selecao1": ["brasil.svg", "Brasil pontos", "BRA"],
+        "selecao2": ["camaroes.svg", "Camarões pontos", "CAM"],
         "selecao3": ["servia.svg", "Sérvia pontos", "SER"],
-        "selecao1": ["suica.svg", "Suíça 3pontos", "SUI"]
+        "selecao4": ["suica.svg", "Suíça pontos", "SUI"]
     },
     {
         "grupo": "H",
@@ -56,3 +56,4 @@
         "selecao1": ["uruguai.svg", "Uruguai 0 pontos", "URU"]
     }
 ]
+ 

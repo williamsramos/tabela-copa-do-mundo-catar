@@ -2,9 +2,9 @@
     {
         "grupo": "A",
         "selecao4": ["catar.svg", "Catar 0 pontos", "CAT"],
-        "selecao2": ["equador.svg", "Equador 3 pontos", "EQU"],
+        "selecao2": ["equador.svg", "Equador 4 pontos", "EQU"],
         "selecao3": ["senegal.svg", "Senegal 3 pontos", "SEN"],
-        "selecao1": ["holanda.svg", "Holanda 3 pontos", "HOL"]
+        "selecao1": ["holanda.svg", "Holanda 4 pontos", "HOL"]
     },
     {
         "grupo": "B",

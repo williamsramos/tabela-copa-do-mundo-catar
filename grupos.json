@@ -9,7 +9,7 @@
     {
         "grupo": "B",
         "selecao1": [ "inglaterra.svg", "Inglaterra 3 pontos", "ING"],
-        "selecao2": [ "ira.svg", "Irã 3 pontos", "IRA"],
+        "selecao2"git: [ "ira.svg", "Irã 3 pontos", "IRA"],
         "selecao3": ["estados_unidos.svg", "Estados Unidos 1 ponto", "EUA"],
         "selecao4": ["pais_de_gales.svg", "País de Gales 1 ponto", "GAL"]
     },

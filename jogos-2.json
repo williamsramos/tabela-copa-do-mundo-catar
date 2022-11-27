@@ -103,7 +103,7 @@
         "data": "27/11/2022",
         "hora": "07:00",
         "estadio": "AL RAYYAN",
-        "partida": "JAP x COS",
+        "partida": "JAP 0 x 1 COS",
         "mandante": "japao.svg",
         "visitante": "costa_rica.svg"
     },
@@ -127,7 +127,7 @@
         "data": "27/11/2022",
         "hora": "10:00",
         "estadio": "AL THUMAMA",
-        "partida": "BEL x MAR",
+        "partida": "BEL 0 x 2 MAR",
         "mandante": "belgica.svg",
         "visitante": "marrocos.svg"
     },
@@ -139,7 +139,7 @@
         "data": "27/11/2022",
         "hora": "13:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "CRO x CAN",
+        "partida": "CRO 4 x 1 CAN",
         "mandante": "croacia.svg",
         "visitante": "canada.svg"
     },

@@ -55,7 +55,7 @@
         "data": "26/11/2022",
         "hora": "10:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "POL x ARA",
+        "partida": "POL 2 x 0 ARA",
         "mandante": "polonia.svg",
         "visitante": "arabia_saudita.svg"
     },
@@ -67,7 +67,7 @@
         "data": "26/11/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "ARG x MEX",
+        "partida": "ARG 2 x 0 MEX",
         "mandante": "argentina.svg",
         "visitante": "mexico.svg"
     },    
@@ -91,7 +91,7 @@
         "data": "26/11/2022",
         "hora": "13:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "FRA x DIN",
+        "partida": "FRA 2 x 1 DIN",
         "mandante": "franca.svg",
         "visitante": "dinamarca.svg"
     },

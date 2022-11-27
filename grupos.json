@@ -15,14 +15,14 @@
     },
     {
         "grupo": "C",
-        "selecao1": ["arabia_saudita.svg", "Arábia Saudita 3 pontos", "ARA"],
-        "selecao4": ["argentina.svg", "Argentina 0 pontos", "ARG"],
-        "selecao3": ["mexico.svg", "México 1 ponto ", "MEX"],
-        "selecao2": ["polonia.svg", "Polônia 1 ponto", "POL"]
+        "selecao3": ["arabia_saudita.svg", "Arábia Saudita 3 pontos", "ARA"],
+        "selecao2": ["argentina.svg", "Argentina 3 pontos", "ARG"],
+        "selecao4": ["mexico.svg", "México 1 ponto ", "MEX"],
+        "selecao1": ["polonia.svg", "Polônia 4 ponto", "POL"]
     },
     {
         "grupo": "D",
-        "selecao1": ["franca.svg", "França 3 pontos", "FRA"],
+        "selecao1": ["franca.svg", "França 6 pontos", "FRA"],
         "selecao2": ["australia.svg", "Australia 3 pontos", "AUS"],
         "selecao3": ["dinamarca.svg", "Dinamarca 1 ponto", "DIN"],
         "selecao4": ["tunisia.svg", "Tunísia 1 ponto", "TUN"]

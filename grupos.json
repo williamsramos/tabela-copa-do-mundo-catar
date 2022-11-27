@@ -29,17 +29,17 @@
     },
     {
         "grupo": "E",
-        "selecao3": ["alemanha.svg", "Alemanha 0 pontos", "ALE"],
-        "selecao4": ["costa_rica.svg", "Costa Rica  0 pontos", "COS"],
+        "selecao4": ["alemanha.svg", "Alemanha 0 pontos", "ALE"],
+        "selecao3": ["costa_rica.svg", "Costa Rica  3 pontos", "COS"],
         "selecao1": ["espanha.svg", "Espanha  3 pontos", "ESP"],
         "selecao2": ["japao.svg", "Japão 3 pontos", "JAP"]
     },
     {
         "grupo": "F",
-        "selecao1": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
+        "selecao3": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
         "selecao4": ["canada.svg", "Canadá 0 pontos", "CAN"],
-        "selecao3": ["croacia.svg", "Croácia 1 ponto", "CRO"],
-        "selecao2": ["marrocos.svg", "Marrocos 1 ponto", "MAR"]
+        "selecao1": ["croacia.svg", "Croácia 4 pontos", "CRO"],
+        "selecao2": ["marrocos.svg", "Marrocos 4 pontos", "MAR"]
     },
     {
         "grupo": "G",

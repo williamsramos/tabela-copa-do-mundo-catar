@@ -151,7 +151,7 @@
         "data": "28/11/2022",
         "hora": "07:00",
         "estadio": "AL WAKRAH",
-        "partida": "CAM x SER",
+        "partida": "CAM 3 x 3 SER",
         "mandante": "camaroes.svg",
         "visitante": "servia.svg"
     },
@@ -163,7 +163,7 @@
         "data": "28/11/2022",
         "hora": "13:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "BRA x SUI",
+        "partida": "BRA 1 x 0 SUI",
         "mandante": "brasil.svg",
         "visitante": "suica.svg"
     },
@@ -175,7 +175,7 @@
         "data": "28/11/2022",
         "hora": "10:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "COR x GAN",
+        "partida": "COR 2 x 3 GAN",
         "mandante": "coreia_do_sul.svg",
         "visitante": "gana.svg"
     },
@@ -187,7 +187,7 @@
         "data": "28/11/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "POR x URU",
+        "partida": "POR 2 x 0 URU",
         "mandante": "portugal.svg",
         "visitante": "uruguai.svg"
     }

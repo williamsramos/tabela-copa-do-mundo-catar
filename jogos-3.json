@@ -7,7 +7,7 @@
         "data": "29/11/2022",
         "hora": "12:00",
         "estadio": "AL KHOR",
-        "partida": "HOL x CAT",
+        "partida": "HOL 2 x 0 CAT",
         "mandante": "holanda.svg",
         "visitante": "catar.svg"
     },
@@ -19,7 +19,7 @@
         "data": "29/11/2022",
         "hora": "12:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "EQU x SEN",
+        "partida": "EQU 1 x 2 SEN",
         "mandante": "equador.svg",
         "visitante": "senegal.svg"
     },
@@ -31,7 +31,7 @@
         "data": "29/11/2022",
         "hora": "16:00",
         "estadio": "AL RAYYAN",
-        "partida": "GAL x ING",
+        "partida": "GAL 0 x 3 ING",
         "mandante": "pais_de_gales.svg",
         "visitante": "inglaterra.svg"
     },
@@ -43,7 +43,7 @@
         "data": "29/11/2022",
         "hora": "16:00",
         "estadio": "AL THUMAMA",
-        "partida": "IRA x EUA",
+        "partida": "IRA 0 x 1 EUA",
         "mandante": "ira.svg",
         "visitante": "estados_unidos.svg"
     },   

@@ -6,9 +6,9 @@
         "data": "03/12/2022",
         "hora": "12:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "1A x 2B",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "HOL x EUA",
+        "mandante": "holanda.svg",
+        "visitante": "estados_unidos.svg"
     },
     {
         "id": 2,
@@ -50,9 +50,9 @@
         "data": "04/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "1B x 2A",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "ING x SEN",
+        "mandante": "inglaterra.svg",
+        "visitante": "senegal.svg"
     },
     {
         "id": 6,

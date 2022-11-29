@@ -1,16 +1,16 @@
 [
     {
         "grupo": "A",
-        "selecao4": ["catar.svg", "Catar 0 pontos", "CAT"],
-        "selecao2": ["equador.svg", "Equador 4 pontos", "EQU"],
-        "selecao3": ["senegal.svg", "Senegal 3 pontos", "SEN"],
-        "selecao1": ["holanda.svg", "Holanda 4 pontos", "HOL"]
+        "selecao1": ["holanda.svg", "Holanda 7 pontos", "HOL"],
+        "selecao2": ["senegal.svg", "Senegal 6 pontos", "SEN"],
+        "selecao3": ["equador.svg", "Equador 4 pontos", "EQU"],
+        "selecao4": ["catar.svg", "Catar 0 pontos", "CAT"]
     },
     {
         "grupo": "B",
-        "selecao1": [ "inglaterra.svg", "Inglaterra 4 pontos", "ING"],
-        "selecao2": [ "ira.svg", "Irã 3 pontos", "IRA"],
-        "selecao3": ["estados_unidos.svg", "Estados Unidos 2 ponto", "EUA"],
+        "selecao1": [ "inglaterra.svg", "Inglaterra 7 pontos", "ING"],
+        "selecao2": ["estados_unidos.svg", "Estados Unidos 5 ponto", "EUA"],
+        "selecao3": [ "ira.svg", "Irã 3 pontos", "IRA"],
         "selecao4": ["pais_de_gales.svg", "País de Gales 1 ponto", "GAL"]
     },
     {

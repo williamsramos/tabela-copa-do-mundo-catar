@@ -15,31 +15,32 @@
     },
     {
         "grupo": "C",
-        "selecao3": ["arabia_saudita.svg", "Arábia Saudita 3 pontos", "ARA"],
-        "selecao2": ["argentina.svg", "Argentina 3 pontos", "ARG"],
-        "selecao4": ["mexico.svg", "México 1 ponto ", "MEX"],
-        "selecao1": ["polonia.svg", "Polônia 4 ponto", "POL"]
+        "selecao1": ["argentina.svg", "Argentina 6 pontos", "ARG"],
+        "selecao2": ["polonia.svg", "Polônia 4 ponto", "POL"],
+        "selecao3": ["mexico.svg", "México 4 ponto ", "MEX"],
+        "selecao4": ["arabia_saudita.svg", "Arábia Saudita 3 pontos", "ARA"]
     },
     {
         "grupo": "D",
         "selecao1": ["franca.svg", "França 6 pontos", "FRA"],
-        "selecao2": ["australia.svg", "Australia 3 pontos", "AUS"],
-        "selecao3": ["dinamarca.svg", "Dinamarca 1 ponto", "DIN"],
-        "selecao4": ["tunisia.svg", "Tunísia 1 ponto", "TUN"]
+        "selecao2": ["australia.svg", "Australia 6 pontos", "AUS"],
+        "selecao3": ["tunisia.svg", "Tunísia 4 ponto", "TUN"],
+        "selecao4": ["dinamarca.svg", "Dinamarca 1 ponto", "DIN"]
+        
     },
     {
         "grupo": "E",
-        "selecao4": ["alemanha.svg", "Alemanha 1 ponto", "ALE"],
-        "selecao3": ["costa_rica.svg", "Costa Rica  3 pontos", "COS"],
         "selecao1": ["espanha.svg", "Espanha  4 pontos", "ESP"],
-        "selecao2": ["japao.svg", "Japão 3 pontos", "JAP"]
+        "selecao2": ["japao.svg", "Japão 3 pontos", "JAP"],
+        "selecao3": ["costa_rica.svg", "Costa Rica  3 pontos", "COS"],
+        "selecao4": ["alemanha.svg", "Alemanha 1 ponto", "ALE"]
     },
     {
         "grupo": "F",
-        "selecao3": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
-        "selecao4": ["canada.svg", "Canadá 0 pontos", "CAN"],
         "selecao1": ["croacia.svg", "Croácia 4 pontos", "CRO"],
-        "selecao2": ["marrocos.svg", "Marrocos 4 pontos", "MAR"]
+        "selecao2": ["marrocos.svg", "Marrocos 4 pontos", "MAR"],
+        "selecao3": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
+        "selecao4": ["canada.svg", "Canadá 0 pontos", "CAN"]   
     },
     {
         "grupo": "G",

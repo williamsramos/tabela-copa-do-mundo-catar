@@ -17,9 +17,9 @@
         "data": "03/12/2022",
         "hora": "16:00",
         "estadio": "AL RAYYAN",
-        "partida": "1C x 2D",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "ARG x AUS",
+        "mandante": "argentina.svg",
+        "visitante": "australia.svg"
     },
     {
         "id": 3,
@@ -61,9 +61,9 @@
         "data": "04/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "1D x 2C",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "FRA x POL",
+        "mandante": "franca.svg",
+        "visitante": "polonia.svg"
     },
     {
         "id": 7,

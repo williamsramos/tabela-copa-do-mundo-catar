@@ -55,7 +55,7 @@
         "data": "30/11/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "POL x ARG",
+        "partida": "POL 0 x 2 ARG",
         "mandante": "polonia.svg",
         "visitante": "argentina.svg"
     },
@@ -67,7 +67,7 @@
         "data": "30/11/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "ARA x MEX",
+        "partida": "ARA 1 x 2 MEX",
         "mandante": "arabia_saudita.svg",
         "visitante": "mexico.svg"
     },    
@@ -79,7 +79,7 @@
         "data": "30/11/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "TUN x FRA",
+        "partida": "TUN 1 x 0 FRA",
         "mandante": "tunisia.svg",
         "visitante": "franca.svg"
     },
@@ -91,7 +91,7 @@
         "data": "30/11/2022",
         "hora": "12:00",
         "estadio": "AL WAKRAH",
-        "partida": "AUS x DIN",
+        "partida": "AUS 1 x  0 DIN",
         "mandante": "australia.svg",
         "visitante": "dinamarca.svg"
     },

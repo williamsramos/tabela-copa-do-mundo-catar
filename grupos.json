@@ -30,24 +30,24 @@
     },
     {
         "grupo": "E",
-        "selecao1": ["espanha.svg", "Espanha  4 pontos", "ESP"],
-        "selecao2": ["japao.svg", "Japão 3 pontos", "JAP"],
-        "selecao3": ["costa_rica.svg", "Costa Rica  3 pontos", "COS"],
-        "selecao4": ["alemanha.svg", "Alemanha 1 ponto", "ALE"]
+        "selecao1": ["japao.svg", "Japão 6 pontos", "JAP"],
+        "selecao2": ["espanha.svg", "Espanha  4 pontos", "ESP"],
+        "selecao3": ["alemanha.svg", "Alemanha 4 ponto", "ALE"],
+        "selecao4": ["costa_rica.svg", "Costa Rica  3 pontos", "COS"]
     },
     {
         "grupo": "F",
-        "selecao1": ["croacia.svg", "Croácia 4 pontos", "CRO"],
-        "selecao2": ["marrocos.svg", "Marrocos 4 pontos", "MAR"],
-        "selecao3": ["belgica.svg", "Bélgica 3 pontos", "BEL"],
+        "selecao1": ["marrocos.svg", "Marrocos 4 pontos", "MAR"],
+        "selecao2": ["croacia.svg", "Croácia 5 pontos", "CRO"],
+        "selecao3": ["belgica.svg", "Bélgica 4 pontos", "BEL"],
         "selecao4": ["canada.svg", "Canadá 0 pontos", "CAN"]   
     },
     {
         "grupo": "G",
         "selecao1": ["brasil.svg", "Brasil 6  pontos", "BRA"],
+        "selecao2": ["suica.svg", "Suíça 3 pontos", "SUI"],
         "selecao3": ["camaroes.svg", "Camarões 1 ponto", "CAM"],
-        "selecao4": ["servia.svg", "Sérvia 1 ponto", "SER"],
-        "selecao2": ["suica.svg", "Suíça 3 pontos", "SUI"]
+        "selecao4": ["servia.svg", "Sérvia 1 ponto", "SER"]
     },
     {
         "grupo": "H",

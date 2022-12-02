@@ -28,9 +28,9 @@
         "data": "05/12/2022",
         "hora": "12:00",
         "estadio": "AL WAKRAH",
-        "partida": "1E x 2F",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "JAP x CRO",
+        "mandante": "japao.svg",
+        "visitante": "croacia.svg"
     },
     {
         "id": 4,
@@ -39,7 +39,7 @@
         "data": "05/12/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "1G x 2H",
+        "partida": "BRA/SUI x GAN/URU",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },
@@ -72,9 +72,9 @@
         "data": "06/12/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "1F x 2E",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "MAR x  ESP",
+        "mandante": "marrocos.svg",
+        "visitante": "espanha.svg"
     },
     {
         "id": 8,
@@ -83,7 +83,7 @@
         "data": "06/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "1H x 2G",
+        "partida": "POR/GAN x SUI/SER",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },

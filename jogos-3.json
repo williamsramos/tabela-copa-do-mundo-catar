@@ -103,7 +103,7 @@
         "data": "01/12/2022",
         "hora": "16:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "JAP x ESP",
+        "partida": "JAP 2 x 1 ESP",
         "mandante": "japao.svg",
         "visitante": "espanha.svg"
     },
@@ -115,7 +115,7 @@
         "data": "01/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "COS x ALE",
+        "partida": "COS 2 x 4 ALE",
         "mandante": "costa_rica.svg",
         "visitante": "alemanha.svg"
     },
@@ -127,7 +127,7 @@
         "data": "01/12/2022",
         "hora": "12:00",
         "estadio": "AL RAYYAN",
-        "partida": "CRO x BEL",
+        "partida": "CRO 0 x 0 BEL",
         "mandante": "croacia.svg",
         "visitante": "belgica.svg"
     },
@@ -139,7 +139,7 @@
         "data": "01/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "CAN x MAR",
+        "partida": "CAN 1 x 2 MAR",
         "mandante": "canada.svg",
         "visitante": "marrocos.svg"
     },

@@ -39,9 +39,9 @@
         "data": "05/12/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "BRA/SUI x GAN/URU",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "BRA x COR",
+        "mandante": "brasil.svg",
+        "visitante": "coreia_do_sul.svg"
     },
     {
         "id": 5,
@@ -83,9 +83,9 @@
         "data": "06/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "POR/GAN x SUI/SER",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "POR x SUI",
+        "mandante": "portugal.svg",
+        "visitante": "suica.svg"
     },
     {
         "id": 9,

@@ -40,8 +40,8 @@
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
         "partida": "BRA x COR",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "mandante": "brasil.svg",
+        "visitante": "coreia_do_sul.svg"
     },
     {
         "id": 5,
@@ -84,8 +84,8 @@
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
         "partida": "POR x SUI",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "mandante": "portugal.svg",
+        "visitante": "suica.svg"
     },
     {
         "id": 9,

@@ -39,7 +39,7 @@
         "data": "05/12/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "BRA/SUI x GAN/URU",
+        "partida": "BRA x COR",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },
@@ -83,7 +83,7 @@
         "data": "06/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "POR/GAN x SUI/SER",
+        "partida": "POR x SUI",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },

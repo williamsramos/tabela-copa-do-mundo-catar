@@ -46,16 +46,18 @@
     {
         "grupo": "G",
         "selecao1": ["brasil.svg", "Brasil 6  pontos", "BRA"],
-        "selecao3": ["camaroes.svg", "Camarões 1 ponto", "CAM"],
-        "selecao4": ["servia.svg", "Sérvia 1 ponto", "SER"],
-        "selecao2": ["suica.svg", "Suíça 3 pontos", "SUI"]
+        "selecao2": ["suica.svg", "Suíça 6 pontos", "SUI"],    
+        "selecao3": ["camaroes.svg", "Camarões 4 ponto", "CAM"],
+        "selecao4": ["servia.svg", "Sérvia 1 ponto", "SER"]
+        
     },
     {
         "grupo": "H",
         "selecao1": ["portugal.svg", "Portugal 6 pontos", "POR"],
-        "selecao2": ["gana.svg", "Gana 3 pontos", "GAN"],
-        "selecao3": ["coreia_do_sul.svg ", "Coreia do Sul 1 ponto", "COR"],
-        "selecao4": ["uruguai.svg", "Uruguai 1 ponto", "URU"]
+        "selecao2": ["coreia_do_sul.svg ", "Coreia do Sul 4 ponto", "COR"],
+        "selecao3": ["uruguai.svg", "Uruguai 4 ponto", "URU"],
+        "selecao4": ["gana.svg", "Gana 3 pontos", "GAN"]
+        
     }
 ]
  

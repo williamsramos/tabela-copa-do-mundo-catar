@@ -151,7 +151,7 @@
         "data": "02/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL LUSAIL",
-        "partida": "CAM x BRA",
+        "partida": "CAM 1 x 0 BRA",
         "mandante": "camaroes.svg",
         "visitante": "brasil.svg"
     },
@@ -163,7 +163,7 @@
         "data": "02/12/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "SER x SUI",
+        "partida": "SER 2 x 3 SUI",
         "mandante": "servia.svg",
         "visitante": "suica.svg"
     },
@@ -175,7 +175,7 @@
         "data": "02/12/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "COR x POR",
+        "partida": "COR 2 x 1 POR",
         "mandante": "coreia_do_sul.svg",
         "visitante": "portugal.svg"
     },
@@ -187,7 +187,7 @@
         "data": "02/12/2022",
         "hora": "12:00",
         "estadio": "AL WAKRAH",
-        "partida": "GAN x URU",
+        "partida": "GAN  0 x 2 URU",
         "mandante": "gana.svg",
         "visitante": "uruguai.svg"
     }

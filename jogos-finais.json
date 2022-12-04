@@ -6,7 +6,7 @@
         "data": "03/12/2022",
         "hora": "12:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "HOL x EUA",
+        "partida": "HOL 3 x 1 EUA",
         "mandante": "holanda.svg",
         "visitante": "estados_unidos.svg"
     },
@@ -17,7 +17,7 @@
         "data": "03/12/2022",
         "hora": "16:00",
         "estadio": "AL RAYYAN",
-        "partida": "ARG x AUS",
+        "partida": "ARG 2 x 1 AUS",
         "mandante": "argentina.svg",
         "visitante": "australia.svg"
     },
@@ -94,9 +94,9 @@
         "data": "09/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "Venc. O1 x Venc. O2",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "HOL x ARG",
+        "mandante": "holanda.svg",
+        "visitante": "argentina.svg"
     },
     {
         "id": 10,

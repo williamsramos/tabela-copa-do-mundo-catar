@@ -50,7 +50,7 @@
         "data": "04/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "ING x SEN",
+        "partida": "ING 3 x 0 SEN",
         "mandante": "inglaterra.svg",
         "visitante": "senegal.svg"
     },
@@ -61,7 +61,7 @@
         "data": "04/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "FRA x POL",
+        "partida": "FRA 3 x 1 POL",
         "mandante": "franca.svg",
         "visitante": "polonia.svg"
     },
@@ -116,9 +116,9 @@
         "data": "10/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "Venc. O5 x Venc. O6",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "ING x FRA",
+        "mandante": "inglaterra.svg",
+        "visitante": "franca.svg"
     },
     {
         "id": 12,

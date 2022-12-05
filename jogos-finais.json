@@ -28,7 +28,7 @@
         "data": "05/12/2022",
         "hora": "12:00",
         "estadio": "AL WAKRAH",
-        "partida": "JAP x CRO",
+        "partida": "JAP 1 (1) x 1 (3) CRO",
         "mandante": "japao.svg",
         "visitante": "croacia.svg"
     },
@@ -39,7 +39,7 @@
         "data": "05/12/2022",
         "hora": "16:00",
         "estadio": "PORTO DE DOHA",
-        "partida": "BRA x COR",
+        "partida": "BRA 4 x 1 COR",
         "mandante": "brasil.svg",
         "visitante": "coreia_do_sul.svg"
     },
@@ -105,9 +105,9 @@
         "data": "09/12/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "Venc. O3 x Venc. O4",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "CRO x  BRA",
+        "mandante": "croacia.svg",
+        "visitante": "brasil.svg"
     },
     {
         "id": 11,
@@ -127,7 +127,7 @@
         "data": "10/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "Venc. O7 x Venc. O8",
+        "partida": "MAR/ESP x POR/SUI",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },
@@ -138,7 +138,7 @@
         "data": "13/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "Venc. Q1 x Venc. Q2",
+        "partida": "HOL/ARG x CRO/BRA",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },
@@ -149,7 +149,7 @@
         "data": "14/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "Venc. Q3 x Venc. Q4",
+        "partida": "ING/FRA x Venc. Q4",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },

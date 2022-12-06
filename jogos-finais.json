@@ -72,7 +72,7 @@
         "data": "06/12/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "MAR x  ESP",
+        "partida": "MAR 0(3) x (0) 0  ESP",
         "mandante": "marrocos.svg",
         "visitante": "espanha.svg"
     },
@@ -83,7 +83,7 @@
         "data": "06/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "POR x SUI",
+        "partida": "POR 6 x 1 SUI",
         "mandante": "portugal.svg",
         "visitante": "suica.svg"
     },
@@ -127,9 +127,9 @@
         "data": "10/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "MAR/ESP x POR/SUI",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "MAR x POR",
+        "mandante": "marrocos.svg",
+        "visitante": "portugal.svg"
     },
     {
         "id": 13,
@@ -149,7 +149,7 @@
         "data": "14/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "ING/FRA x Venc. Q4",
+        "partida": "ING/FRA x MAR/POR",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     },

@@ -139,8 +139,8 @@
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
         "partida": "ARG x CRO",
-        "mandante": "croacia.svg",
-        "visitante": "argentina.svg"
+        "mandante": "argentina.svg",
+        "visitante": "croacia.svg"
     },
     {
         "id": 14,

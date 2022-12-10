@@ -94,7 +94,7 @@
         "data": "09/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "HOL x ARG",
+        "partida": "HOL 2 (3) x (4) 2 ARG",
         "mandante": "holanda.svg",
         "visitante": "argentina.svg"
     },
@@ -105,7 +105,7 @@
         "data": "09/12/2022",
         "hora": "12:00",
         "estadio": "CIDADE DA EDUCAÇÃO",
-        "partida": "CRO x  BRA",
+        "partida": "CRO 1(4) x (2) 1  BRA",
         "mandante": "croacia.svg",
         "visitante": "brasil.svg"
     },
@@ -138,9 +138,9 @@
         "data": "13/12/2022",
         "hora": "16:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "HOL/ARG x CRO/BRA",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "ARG x CRO",
+        "mandante": "argentina.svg",
+        "visitante": "argentina.svg"
     },
     {
         "id": 14,

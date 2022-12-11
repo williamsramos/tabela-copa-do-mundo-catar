@@ -116,7 +116,7 @@
         "data": "10/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "ING x FRA",
+        "partida": "ING 1 x 2FRA",
         "mandante": "inglaterra.svg",
         "visitante": "franca.svg"
     },
@@ -127,7 +127,7 @@
         "data": "10/12/2022",
         "hora": "12:00",
         "estadio": "AL THUMAMA",
-        "partida": "MAR x POR",
+        "partida": "MAR 1 x 0 POR",
         "mandante": "marrocos.svg",
         "visitante": "portugal.svg"
     },
@@ -149,9 +149,9 @@
         "data": "14/12/2022",
         "hora": "16:00",
         "estadio": "AL KHOR",
-        "partida": "ING/FRA x MAR/POR",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "FRA x MAR",
+        "mandante": "franca.svg",
+        "visitante": "marrocos.svg"
     },
     {
         "id": 15,

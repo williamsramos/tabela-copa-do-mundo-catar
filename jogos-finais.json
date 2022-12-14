@@ -133,7 +133,7 @@
     },
     {
         "id": 13,
-        "rodada": "Semi final 1",
+        "rodada": "Semifinal 1",
         "diaSemana": "TER",
         "data": "13/12/2022",
         "hora": "16:00",
@@ -144,11 +144,11 @@
     },
     {
         "id": 14,
-        "rodada": "Semi final 2",
+        "rodada": "Semifinal 2",
         "diaSemana": "QUA",
         "data": "14/12/2022",
         "hora": "16:00",
-        "estadio": "AL KHOR",
+        "estadio": "AL BAYT STADIUM,AL KHOR",
         "partida": "FRA x MAR",
         "mandante": "franca.svg",
         "visitante": "marrocos.svg"
@@ -160,9 +160,10 @@
         "data": "17/12/2022",
         "hora": "12:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "Perd. S1 x Perd. S2",
+        "partida": "CRO x FRA/MAR",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
+
     },
     {
         "id": 16,
@@ -171,7 +172,7 @@
         "data": "18/12/2022",
         "hora": "12:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "Venc. S1 x Venc. S2",
+        "partida": "ARG x FRA/MAR",
         "mandante": "bandeira_padrao.svg",
         "visitante": "bandeira_padrao.svg"
     }

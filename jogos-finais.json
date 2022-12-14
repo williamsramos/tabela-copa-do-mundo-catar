@@ -49,7 +49,7 @@
         "diaSemana": "DOM",
         "data": "04/12/2022",
         "hora": "16:00",
-        "estadio": "AL KHOR",
+        "estadio": "AL BAYT STADIUM",
         "partida": "ING 3 x 0 SEN",
         "mandante": "inglaterra.svg",
         "visitante": "senegal.svg"
@@ -115,7 +115,7 @@
         "diaSemana": "SÁB",
         "data": "10/12/2022",
         "hora": "16:00",
-        "estadio": "AL KHOR",
+        "estadio": "AL BAYT STADIUM",
         "partida": "ING 1 x 2FRA",
         "mandante": "inglaterra.svg",
         "visitante": "franca.svg"
@@ -148,7 +148,7 @@
         "diaSemana": "QUA",
         "data": "14/12/2022",
         "hora": "16:00",
-        "estadio": "AL BAYT STADIUM,AL KHOR",
+        "estadio": "AL BAYT STADIUM",
         "partida": "FRA x MAR",
         "mandante": "franca.svg",
         "visitante": "marrocos.svg"

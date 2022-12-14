@@ -160,9 +160,9 @@
         "data": "17/12/2022",
         "hora": "12:00",
         "estadio": "INTERNACIONAL KHALIFA",
-        "partida": "CRO x FRA/MAR",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "CRO x MAR",
+        "mandante": "croacia.svg",
+        "visitante": "marrocos.svg"
 
     },
     {
@@ -172,8 +172,8 @@
         "data": "18/12/2022",
         "hora": "12:00",
         "estadio": "NACIONAL DE LUSAIL",
-        "partida": "ARG x FRA/MAR",
-        "mandante": "bandeira_padrao.svg",
-        "visitante": "bandeira_padrao.svg"
+        "partida": "ARG x FRA",
+        "mandante": "argentina.svg",
+        "visitante": "franca.svg"
     }
 ]
